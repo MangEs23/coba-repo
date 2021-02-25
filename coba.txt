@@ -1,3 +1,4 @@
 saya suka warna biru
 saya suka warna hitam
 saya suka warna abu
+saya lupa nambah pesan commit
